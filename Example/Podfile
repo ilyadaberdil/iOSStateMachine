@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'iOSStateMachine_Example' do
+  pod 'iOSStateMachine', :path => '../'
+
+  target 'iOSStateMachine_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
