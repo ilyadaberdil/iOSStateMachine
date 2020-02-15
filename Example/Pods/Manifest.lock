@@ -1,0 +1,16 @@
+PODS:
+  - iOSStateMachine (0.1.0)
+
+DEPENDENCIES:
+  - iOSStateMachine (from `../`)
+
+EXTERNAL SOURCES:
+  iOSStateMachine:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  iOSStateMachine: 77354e6c0f4454fbb2a0cfae0c590df0b0137f1a
+
+PODFILE CHECKSUM: c4b1e1fca7e9dbe8b1a9640b7ee28652615b4ce2
+
+COCOAPODS: 1.8.4

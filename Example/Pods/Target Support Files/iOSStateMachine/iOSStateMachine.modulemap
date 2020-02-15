@@ -1,0 +1,6 @@
+framework module iOSStateMachine {
+  umbrella header "iOSStateMachine-umbrella.h"
+
+  export *
+  module * { export * }
+}

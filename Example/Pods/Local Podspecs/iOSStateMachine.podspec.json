@@ -1,0 +1,22 @@
+{
+  "name": "iOSStateMachine",
+  "version": "0.1.0",
+  "summary": "A short description of iOSStateMachine.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ilyadaberdil/iOSStateMachine",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ilyadaberdil": "ilyadaberdil@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ilyadaberdil/iOSStateMachine.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iOSStateMachine/Classes/**/*"
+}
